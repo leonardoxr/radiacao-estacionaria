@@ -1,0 +1,1 @@
+# radiacao-estacionaria
